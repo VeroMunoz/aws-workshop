@@ -5,11 +5,11 @@
     },
     {
         "ParameterKey": "EmailAddress",
-        "ParameterValue": "email@yourdomain.com"
+        "ParameterValue": "veronica.munoz@wizeline.com"
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "arn:aws:iam::609609837128:user/vero-wizeline"
     },
     {
         "ParameterKey": "WebserverCIDR",
